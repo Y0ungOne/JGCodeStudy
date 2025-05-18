@@ -1,0 +1,7 @@
+a=int(input())
+b=input()
+c,d,e=list(map(int,b))
+print(a*e)
+print(a*d)
+print(a*c)
+print(a*int(b))
