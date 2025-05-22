@@ -11,7 +11,6 @@ for i in range(len(arry)):
 
     is_prime = True
     for j in range(2, int(math.sqrt(n)) + 1):
-
         if n % j == 0:
             is_prime = False
             break
