@@ -27,6 +27,3 @@ for i in range(len(B)):
         print(1)
     else:
         print(0)
-    
-    
-
