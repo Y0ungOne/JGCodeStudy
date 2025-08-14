@@ -20,7 +20,7 @@ for i, case in enumerate(arry):
     print("%.3f%%" % ((count_over / N) * 100))
     count_over=0
     
-#우진님 코드드
+# 우진님 코드
 # n = int(input())
 # for _ in range(n):
 #     data = list(map(int, input().split()))
